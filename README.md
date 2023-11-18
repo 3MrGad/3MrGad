@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @3MrGad
 - 👀 I’m interested in programming and problem-solving
-- 🌱 I’m currently learning developing the fundamental like OOP and learning ML
+- 🌱 I’m currently learning to develop the fundamentals like OOP and learning ML
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me amrgadallah11@gmail.com
 
